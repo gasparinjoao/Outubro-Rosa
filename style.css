@@ -16,6 +16,11 @@ body {
     height: 100vh;
   }
 
+h1 {
+  font-size: 40px;
+  text-align: center;
+  color: #2F2F4F;
+}
   .merienda {
     font-family: "Merienda", cursive;
     font-optical-sizing: auto;
@@ -66,4 +71,16 @@ body {
     font-optical-sizing: auto;
     font-weight: 600;
     font-style: normal;
+  }
+
+  .txt {
+    font-size: 28px;
+    text-align: justify;
+    margin: 30px 130px 30px 130px;
+  }
+
+  .txt1 {
+    font-size: 28px;
+    text-align: justify;
+    margin: 30px 130px 30px 130px;
   }
