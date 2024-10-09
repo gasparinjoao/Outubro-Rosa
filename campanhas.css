@@ -87,25 +87,6 @@ h1 {
     margin-right: 130px;
   }
 
-  .video-container {
-    display: flex;
-    flex-direction: column;       
-    align-items: center;          
-    justify-content: center;      
-    height: 100vh;               
-}
-
-iframe {
-    width: 800px;                
-    height: 480px;               
-    margin-bottom: 20px;
-         
-}
-
-.tt {
-    font-size: 28px;
-    margin-bottom: 55px;
-}
 
 footer {
   background: linear-gradient(to right, #FFB6C1, #DC143C);
