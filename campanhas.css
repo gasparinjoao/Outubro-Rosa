@@ -87,6 +87,17 @@ h1 {
     margin-right: 130px;
   }
 
+li {
+  font-size: 28px;
+  margin-left: 130px;
+  margin-right: 13px;
+  display: flexbox;
+}
+
+.tt {
+  display: flex;
+  font-size: 28px;
+}
 
 footer {
   background: linear-gradient(to right, #FFB6C1, #DC143C);
